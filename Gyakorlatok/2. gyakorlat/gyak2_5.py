@@ -10,7 +10,7 @@ def find_longest_words(my_file):
         for ch in line:
             if ch not in string.punctuation:
                 new_str += ch
-        tmp = line.split()
+        tmp = new_str.split()
         for word in tmp:
             if len(word) > max_hossz:
                 lhosszabb_szavak = []
