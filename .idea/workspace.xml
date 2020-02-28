@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a2a2d0b-e861-4cc1-935f-413b1f28af82" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Gyakorlatok/2. gyakorlat/gyak2_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gyakorlatok/2. gyakorlat/gyak2_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlatok/2. gyakorlat/gyak2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gyakorlatok/2. gyakorlat/gyak2_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlatok/2. gyakorlat/gyak2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gyakorlatok/2. gyakorlat/gyak2_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlatok/2. gyakorlat/gyak2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gyakorlatok/2. gyakorlat/gyak2_4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,9 +24,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Xwi5j5dIhARO7KbD7TGb7wpN5m" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Gyakorlatok/2. gyakorlat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Feladatsorok" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -46,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.gyak2_5">
+  <component name="RunManager" selected="Python.gyak3_1">
     <configuration name="gyak2_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,6 +157,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="gyak3_1" type="PythonConfigurationType" factoryName="Python">
+      <module name="Programming1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Serbán Norbert\PycharmProjects\Programming1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gyakorlatok/3. gyakorlat" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gyakorlatok/3. gyakorlat/gyak3_1.py" />
+      <option name="PARAMETERS" value="10 osszeg.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gyak3_test" type="PythonConfigurationType" factoryName="Python">
+      <module name="Programming1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Serbán Norbert\PycharmProjects\Programming1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gyakorlatok/3. gyakorlat" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gyakorlatok/3. gyakorlat/gyak3_test.py" />
+      <option name="PARAMETERS" value="alma korte dio" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.gyak3_test" />
+      <item itemvalue="Python.gyak3_1" />
+      <item itemvalue="Python.gyak2_1" />
+      <item itemvalue="Python.gyak2_2" />
+      <item itemvalue="Python.gyak2_3" />
+      <item itemvalue="Python.gyak2_4" />
+      <item itemvalue="Python.gyak2_5" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.gyak2_5" />
@@ -187,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582289857170</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2. gyakorlat">
+      <created>1582289981991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582289981991</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

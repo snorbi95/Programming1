@@ -1,10 +1,10 @@
 def number_of_lannisters(file):
-    x = 0
+    x = 0 #elofordulasok tarolasa itt tortenik meg
     for line in file:
-        tmp = line.split()
-        for word in tmp:
-            if "Lannister" in word:
-                x += 1
+        tmp = line.split() #felosztjuk az adott sort szavakra
+        for word in tmp: #vegigiterálunk a szavakon
+            if "Lannister" in word: #ha benne van a keresett szó egy szóban
+                x += 1 #növeljük az előfordulások számát
     return x
 
 try:

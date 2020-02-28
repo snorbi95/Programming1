@@ -3,12 +3,12 @@ def betu_csere():
     out_file = open("output.txt","w")
     for line in my_file:
         new_str = ""
-        for ch in line:
-            if ch.islower():
+        for ch in line: #a sort karakterenként dolgozzuk fel
+            if ch.islower(): #karakterek megforditasa
                 new_str += ch.upper()
             elif ch.isupper():
                 new_str += ch.lower()
-            else:
+            else: #ha nem betű karakterről van szó
                 new_str += ch
         print(new_str,file=out_file,end = "")
     my_file.close()
