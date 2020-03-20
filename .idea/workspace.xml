@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a2a2d0b-e861-4cc1-935f-413b1f28af82" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gyakorlatok/4. gyakorlat/gyak4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gyakorlatok/4. gyakorlat/gyak4.py" afterDir="false" />
-    </list>
+    <list default="true" id="6a2a2d0b-e861-4cc1-935f-413b1f28af82" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +30,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Feladatsorok" />
-      <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlatok\2. gyakorlat" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Feladatsorok" />
       <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlatok\1. gyakorlat" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Feladatsorok" />
+      <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlatok\2. gyakorlat" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -267,7 +264,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583516157831</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="5. gyakorlat">
+      <created>1584724054134</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1584724054134</updated>
+    </task>
+    <task id="LOCAL-00007" summary="5. gyakorlat">
+      <created>1584724133320</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584724133320</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,6 +299,7 @@
     <MESSAGE value="2. gyakorlat" />
     <MESSAGE value="3. gyakorlat + kommentek" />
     <MESSAGE value="4. gyakorlat + kommentek" />
-    <option name="LAST_COMMIT_MESSAGE" value="4. gyakorlat + kommentek" />
+    <MESSAGE value="5. gyakorlat" />
+    <option name="LAST_COMMIT_MESSAGE" value="5. gyakorlat" />
   </component>
 </project>

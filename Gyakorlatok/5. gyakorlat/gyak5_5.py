@@ -11,7 +11,7 @@ def count_negative_and_zeros(m):
             elif m[i,j] < 0:
                 negative += 1
         print(negative, zeros)
-        if negative >= zeros * 2 and negative > 0:
+        if negative >= zeros * 2 and zeros > 0:
             list.append(j)
     return list
 
