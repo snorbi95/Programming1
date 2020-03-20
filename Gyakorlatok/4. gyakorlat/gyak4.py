@@ -31,11 +31,11 @@ def vektor_rendezo(a):
 # c[c == c.max()] = -1 # a maximum érték felűlírása -1-re
 # print(c)
 
-#4. feladat
-# d = np.random.randint(1,100,size = 30)
-# print(d)
-# sorted = vektor_rendezo(d)
-# print(sorted)
+# 4. feladat
+d = np.random.randint(1,100,size = 30)
+print(d)
+sorted = vektor_rendezo(d)
+print(sorted)
 
 #5. feladat
 # e = np.arange(-5,15)
