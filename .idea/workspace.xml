@@ -32,14 +32,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlatok\6. gyakorlat" />
-      <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Feladatsorok" />
-      <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlatok\2. gyakorlat" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Feladatsorok" />
       <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlatok\1. gyakorlat" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlatok\7. gyakorlat" />
+      <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Feladatsorok" />
+      <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlatok\6. gyakorlat" />
+      <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlatok\2. gyakorlat" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -54,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.gyak6_5">
+  <component name="RunManager" selected="Python.gyak7_4">
     <configuration name="gyak3_1" type="PythonConfigurationType" factoryName="Python">
       <module name="Programming1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,90 +98,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gyak6_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gyakorlatok/6. gyakorlat" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gyakorlatok/6. gyakorlat/gyak6_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="gyak6_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gyakorlatok/6. gyakorlat" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gyakorlatok/6. gyakorlat/gyak6_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="gyak6_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gyakorlatok/6. gyakorlat" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gyakorlatok/6. gyakorlat/gyak6_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="gyak6_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gyakorlatok/6. gyakorlat" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gyakorlatok/6. gyakorlat/gyak6_4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="gyak6_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,22 +119,106 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="gyak7_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gyakorlatok/7. gyakorlat" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gyakorlatok/7. gyakorlat/gyak7_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gyak7_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gyakorlatok/7. gyakorlat" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gyakorlatok/7. gyakorlat/gyak7_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gyak7_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gyakorlatok/7. gyakorlat" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gyakorlatok/7. gyakorlat/gyak7_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gyak7_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gyakorlatok/7. gyakorlat" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gyakorlatok/7. gyakorlat/gyak7_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.gyak3_test" />
       <item itemvalue="Python.gyak3_1" />
-      <item itemvalue="Python.gyak6_1" />
-      <item itemvalue="Python.gyak6_2" />
-      <item itemvalue="Python.gyak6_3" />
-      <item itemvalue="Python.gyak6_4" />
       <item itemvalue="Python.gyak6_5" />
+      <item itemvalue="Python.gyak7_1" />
+      <item itemvalue="Python.gyak7_2" />
+      <item itemvalue="Python.gyak7_3" />
+      <item itemvalue="Python.gyak7_4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gyak7_4" />
+        <item itemvalue="Python.gyak7_3" />
+        <item itemvalue="Python.gyak7_2" />
+        <item itemvalue="Python.gyak7_1" />
         <item itemvalue="Python.gyak6_5" />
-        <item itemvalue="Python.gyak6_4" />
-        <item itemvalue="Python.gyak6_3" />
-        <item itemvalue="Python.gyak6_2" />
-        <item itemvalue="Python.gyak6_1" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584808499582</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="6. gyakorlat">
+      <created>1584860445888</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584860445888</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
