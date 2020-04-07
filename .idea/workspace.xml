@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6a2a2d0b-e861-4cc1-935f-413b1f28af82" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlatok/8. gyakorlat/gyak8_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gyakorlatok/8. gyakorlat/gyak8_3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,15 +33,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Feladatsorok" />
-      <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlatok\1. gyakorlat" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Feladatsorok" />
       <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlatok\7. gyakorlat" />
       <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlatok\6. gyakorlat" />
       <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlatok\2. gyakorlat" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Feladatsorok" />
+      <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlatok\1. gyakorlat" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -317,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585505959516</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="8. gyakorlat">
+      <created>1586101385828</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1586101385828</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,7 +349,8 @@
     <MESSAGE value="5. gyakorlat" />
     <MESSAGE value="6. gyakorlat" />
     <MESSAGE value="7. gyakorlat" />
-    <option name="LAST_COMMIT_MESSAGE" value="7. gyakorlat" />
+    <MESSAGE value="8. gyakorlat" />
+    <option name="LAST_COMMIT_MESSAGE" value="8. gyakorlat" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
