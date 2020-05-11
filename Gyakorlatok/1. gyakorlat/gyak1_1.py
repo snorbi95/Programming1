@@ -8,3 +8,8 @@ def main():
         n = int(input("Kerek egy szamot:"))
 
 main()
+
+# while True:
+#     n = int(input())
+#     if n != 'end':
+#         break

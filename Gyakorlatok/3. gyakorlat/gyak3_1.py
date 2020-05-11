@@ -89,7 +89,7 @@ def sum_random(args):
 # print(res_list)
 
 #2. feladat
-# osszead_n_ig(sys.argv[1:])
+osszead_n_ig(sys.argv[1:])
 
 #3. feladat
 # kiir_datum(sys.argv[1:])

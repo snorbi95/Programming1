@@ -15,11 +15,11 @@ def vektor_rendezo(a):
     return a
 
 #1. feladat
-# a = np.arange(10,50) #[10,11...,49] vektor létrehozás
+a = np.arange(10,50) #[10,11...,49] vektor létrehozás
 # vektor_fordit(a)
 
 #2. feladat
-# b = np.random.randint(1,50,size = 10) #tiz elemű random vektor 1 és 50 közötti értékekkel
+b = np.random.randint(1,50,size = 10) #tiz elemű random vektor 1 és 50 közötti értékekkel
 # min_max_values = b[(b == b.min()) | (b == b.max())] #azon értékek kigyűgytése egy új vektorba, amelyek min, vagy maxok
 # print(b)
 # print(min_max_values)
@@ -37,9 +37,11 @@ print(d)
 sorted = vektor_rendezo(d)
 print(sorted)
 
+a = np.asarray([2,3,45,8])
+
 #5. feladat
 # e = np.arange(-5,15)
-# e[(e > 3) & (e < 8)] *= -1 #3 és 8 közötti értékek negálása
+e[(e > 3) & (e < 8)] *= -1 #3 és 8 közötti értékek negálása
 # print(e)
 
 #6. feladat
@@ -48,7 +50,7 @@ print(sorted)
 # num = int(input("Kerek egy szamot:"))
 # dist = np.abs(num - f) #a vektor összes elemének a bekért számtól való távolsága eltárolása egy új vektorba
 # print(dist)
-# min_helyek = np.where(dist == dist.min()) #a legkisebb távolságú elem helyének megkeresése
+min_helyek = np.where(dist == dist.min()) #a legkisebb távolságú elem helyének megkeresése
 # print(f[min_helyek]) #a talált helyen lévő érték kiiratása
 
 #7. feladat

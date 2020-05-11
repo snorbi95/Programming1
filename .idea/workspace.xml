@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a2a2d0b-e861-4cc1-935f-413b1f28af82" name="Default Changelist" comment="9. gyakorlat">
+    <list default="true" id="6a2a2d0b-e861-4cc1-935f-413b1f28af82" name="Default Changelist" comment="Minta ZH">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gyakorlatok/8. gyakorlat/gyak8_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gyakorlatok/8. gyakorlat/gyak8_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlatok/1. gyakorlat/gyak1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gyakorlatok/1. gyakorlat/gyak1_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlatok/3. gyakorlat/gyak3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gyakorlatok/3. gyakorlat/gyak3_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlatok/4. gyakorlat/gyak4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gyakorlatok/4. gyakorlat/gyak4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlatok/5. gyakorlat/gyak5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gyakorlatok/5. gyakorlat/gyak5_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlatok/5. gyakorlat/gyak5_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gyakorlatok/5. gyakorlat/gyak5_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlatok/5. gyakorlat/gyak5_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gyakorlatok/5. gyakorlat/gyak5_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlatok/5. gyakorlat/gyak5_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gyakorlatok/5. gyakorlat/gyak5_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlatok/5. gyakorlat/gyak5_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gyakorlatok/5. gyakorlat/gyak5_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlatok/6. gyakorlat/gyak6_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gyakorlatok/6. gyakorlat/gyak6_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlatok/6. gyakorlat/gyak6_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gyakorlatok/6. gyakorlat/gyak6_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlatok/6. gyakorlat/gyak6_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gyakorlatok/6. gyakorlat/gyak6_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlatok/6. gyakorlat/gyak6_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gyakorlatok/6. gyakorlat/gyak6_4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Stub" />
         <option value="Python Script" />
       </list>
     </option>
@@ -29,20 +41,21 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Gyakorlatok/MintaZH/EX2_[neptunkod].py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Gyakorlatok/0508ZH" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlók" />
       <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Feladatsorok" />
       <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlatok\1. gyakorlat" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlók" />
       <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlatok\MintaZH" />
       <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1" />
       <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Feladatsorok" />
       <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlatok\7. gyakorlat" />
-      <recent name="C:\Users\Serbán Norbert\PycharmProjects\Programming1\Gyakorlatok\6. gyakorlat" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -57,28 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.EX5_[neptunkod]">
-    <configuration name="EX1_[neptunkod]" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gyakorlatok/MintaZH" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gyakorlatok/MintaZH/EX1_[neptunkod].py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.gyakorlo6">
     <configuration name="EX2_[neptunkod]" type="PythonConfigurationType" factoryName="Python">
       <module name="Programming1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,27 +92,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX3_[neptunkod]" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gyakorlatok/MintaZH" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gyakorlatok/MintaZH/EX3_[neptunkod].py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="EX5_[neptunkod]" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,27 +105,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gyakorlatok/MintaZH/EX5_[neptunkod].py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ex4_[neptunkod]" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gyakorlatok/MintaZH" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gyakorlatok/MintaZH/Ex4_[neptunkod].py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gyak9_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="gyak6_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,11 +163,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gyakorlatok/9. gyakorlat" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gyakorlatok/6. gyakorlat" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gyakorlatok/9. gyakorlat/gyak9_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gyakorlatok/6. gyakorlat/gyak6_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gyakorlo3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gyakorlók" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gyakorlók/gyakorlo3.py" />
+      <option name="PARAMETERS" value="5 output.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gyakorlo4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gyakorlók" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gyakorlók/gyakorlo4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gyakorlo6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gyakorlók" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gyakorlók/gyakorlo6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,19 +243,19 @@
       <item itemvalue="Python.gyak3_test" />
       <item itemvalue="Python.gyak3_1" />
       <item itemvalue="Python.EX2_[neptunkod]" />
-      <item itemvalue="Python.gyak9_5" />
-      <item itemvalue="Python.EX1_[neptunkod]" />
-      <item itemvalue="Python.EX3_[neptunkod]" />
-      <item itemvalue="Python.Ex4_[neptunkod]" />
       <item itemvalue="Python.EX5_[neptunkod]" />
+      <item itemvalue="Python.gyak6_1" />
+      <item itemvalue="Python.gyakorlo3" />
+      <item itemvalue="Python.gyakorlo4" />
+      <item itemvalue="Python.gyakorlo6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gyakorlo6" />
+        <item itemvalue="Python.gyakorlo3" />
+        <item itemvalue="Python.gyakorlo4" />
+        <item itemvalue="Python.gyak6_1" />
         <item itemvalue="Python.EX5_[neptunkod]" />
-        <item itemvalue="Python.Ex4_[neptunkod]" />
-        <item itemvalue="Python.EX3_[neptunkod]" />
-        <item itemvalue="Python.EX1_[neptunkod]" />
-        <item itemvalue="Python.gyak9_5" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586942011773</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Minta ZH">
+      <created>1587918094666</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1587918094666</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -388,7 +408,8 @@
     <MESSAGE value="7. gyakorlat" />
     <MESSAGE value="8. gyakorlat" />
     <MESSAGE value="9. gyakorlat" />
-    <option name="LAST_COMMIT_MESSAGE" value="9. gyakorlat" />
+    <MESSAGE value="Minta ZH" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minta ZH" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

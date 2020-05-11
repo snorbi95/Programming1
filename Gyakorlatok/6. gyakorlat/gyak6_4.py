@@ -7,11 +7,11 @@ def rgb2gray(image):
     return gray
 
 def sorok_torol(image):
-    avg_kep = np.mean(image)
-    row_avg = image.mean(axis = 1)
-    for i in range(image.shape[0]):
-        if row_avg[i] > avg_kep:
-            image[i,:] = np.zeros(image.shape[1])
+    avg_kep = np.mean(image) # az egesz kep ertekeinek atlaga
+    row_avg = image.mean(axis = 1) # sorok ertekeinek atlaga
+    for i in range(image.shape[0]): # minden soron vegighaladva
+        if row_avg[i] > avg_kep: # ha nagyobb az adott sor atlaga
+            image[i,:] = np.zeros(image.shape[1]) # csere csak 0 vektorra
 
 image = img.imread('flowers.jpg')
 gray = rgb2gray(image)
