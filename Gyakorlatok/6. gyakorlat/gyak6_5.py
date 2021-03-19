@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import matplotlib.image as img
 import numpy as np
 
-def rgb2gray(image):
+def convert_to_grayscale(image):
     gray = np.uint8(0.2989 * image[:,:,0] + 0.5870 * image[:,:,1] + 0.1140 * image[:,:,2])
     return gray
 
@@ -17,9 +17,10 @@ def mean_filter(image,mask_size):
 image = img.imread('flowers.jpg')
 gray = rgb2gray(image)
 
-plt.subplot(1,2,1)
-plt.imshow(gray,cmap='gray')
-res_image = mean_filter(gray,15)
-plt.subplot(1,2,2)
-plt.imshow(res_image, cmap="gray")
+image = img.imread('flowers.jpg')
+image = convert_to_grayscale(image)
+new_im = mean_filter(image, 15)
+fig, ax = plt.subplots(1,2)
+ax[0].imshow(image, cmap='gray')
+ax[1].imshow(new_im, cmap='gray')
 plt.show()
